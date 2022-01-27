@@ -7,7 +7,7 @@ provider:
   runtime: nodejs14.x
   stage: ${opt:stage}
   region: us-east-1
-  lambdaHashingVersion: 20220124
+  lambdaHashingVersion: 20201221
 
 # add 5 function for CURD operation
 functions: 
